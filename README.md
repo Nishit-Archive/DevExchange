@@ -44,7 +44,7 @@ A community-driven platform for asking and answering programming questions 💙.
     - Tag users to bring attention to specific questions or discussions.
 
 11. **Recommended Algorithm:**
-    - Algorithm recommends similar questions based on users' frequent visits.
+    - The algorithm recommends similar questions based on users' frequent visits.
 
 ## Tech Stack
 
@@ -52,6 +52,7 @@ A community-driven platform for asking and answering programming questions 💙.
 - Database: MongoDB
 - Authentication: Clerk
 - Styling: CSS
+- scale: CloudFare
 
 
 
